@@ -45,7 +45,7 @@ Displays the pop-up window over an HTML element with the specified identifier.
 
 ## More Examples
 
-- [Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side](https://supportcenter.devexpress.com/internal/ticket/details/E499)
+- [Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side](https://supportcenter.devexpress.com/ticket/details/E499)
 - [Popup Control for ASP.NET Web Forms - How to add buttons to a popup window](https://www.devexpress.com/Support/Center/p/E493)
 <!-- feedback -->
 ## Does This Example Address Your Development Requirements/Objectives?
